@@ -1,0 +1,21 @@
+h3{
+    font-size: 25px !important;
+    color: rgb(255, 255, 255) !important;
+}
+canvas{
+    border: 4px rgb(255, 255, 255) solid;
+}
+.snap{
+    background-color: rgb(255, 0, 0);
+    font-style: italic;
+    border-color: black;
+    border-width: 2px;
+    color: aliceblue;
+}
+.real{
+    background-color: rgb(21, 83, 138);
+    font-style: italic;
+    border-color: black;
+    border-width: 2px;
+    color: rgb(255, 238, 0);
+}
